@@ -44,7 +44,6 @@ Kế Hoạch Xây Dựng Dự Án Dự Đoán Nợ Xấu:
 
 -----------------------------------------------------
 # loan_default_Prediction
-#ENGLISH BELOW
 Build a Machine Learning model to predict the likelihood of customers falling into the bad debt group (default) based on financial data and credit history.
 Benefits:
 - Minimize credit risk.
